@@ -5,11 +5,11 @@ This Repository Contains codes for the Following Sub-sections: Mathematics : Att
 
 Sensor Fusion:
 
-Sun Sensor
-IMU-Accelerometer.
-IMU-Gyroscope
-IMU-Magnetometer
-Kalman Filter
-LPF
-Orientation Calculations
-Data Structure : Queue implemented via Linked Lists
+1. Sun Sensor
+2. IMU-Accelerometer.
+3. IMU-Gyroscope
+4. IMU-Magnetometer
+5. Kalman Filter
+6. LPF
+7. Orientation Calculations
+8. Data Structure : Queue implemented via Linked Lists
